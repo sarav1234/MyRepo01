@@ -4,7 +4,7 @@ Prog270-Vandandaigue
 Bellevue College
 ----------------
 
-I am a student at Belleveu College and I have taken the following classes:
+I am a student at Bellevue College and I have taken the following classes:
 
   * HTML/CSS
   * SQL
